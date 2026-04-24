@@ -9,7 +9,7 @@ data_path = fullfile(pwd, '..',  filesep, "data_BPs", filesep);
 addpath(data_path);
 lib_path = fullfile(pwd, '..',  filesep, "lib", filesep);
 addpath(lib_path);
-code_path = genpath(fullfile(pwd, '..',  filesep, 'BGFRCE_ICASSP_2026'));
+code_path = genpath(fullfile(pwd, '..',  filesep, 'BGFRCE'));
 addpath(code_path);
 
 
